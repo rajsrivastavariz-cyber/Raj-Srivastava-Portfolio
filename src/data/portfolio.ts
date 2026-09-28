@@ -65,7 +65,7 @@ export const portfolioData: PortfolioData = {
     location: "Noida, India",
     phone: "+91 8765280075",
     email: "rajsrivastavariz@gmail.com",
-    linkedin: "https://linkedin.com/in/raj-srivastava-9865132a",
+    linkedin: "https://linkedin.com/in/raj-srivastava-9865132a7",
 
     summary:
       "Detail-oriented PGDM (Business Analytics) student with hands-on experience in market research and a year of full-time work as a Marketing Analyst in real estate. Skilled in Excel-based sales and financial analysis, Power BI and Tableau reporting, SQL and data-driven problem solving. Proficient in transforming raw datasets into meaningful insights using Advanced Excel, Power Query, Power Pivot, and interactive dashboards.",
